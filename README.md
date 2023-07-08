@@ -1,4 +1,4 @@
-# tutorials
+
 # Resources-for-preparation-Of-Placements (Lecture video links)
 
 **Programming Language Used : C**
@@ -110,34 +110,7 @@
 
 <hr>
   
-**Designing**
-         
-- SYSTEM DESIGN
-  - [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
-  - [SudoCode](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
-  - [Whatsapp System Desgin](https://www.youtube.com/watch?v=LsH-t75P544)
-  - [Instagram Design](https://www.youtube.com/watch?v=QmX2NPkJTKg)
-  - [TikTok Architechture Design](https://www.youtube.com/watch?v=07BVxmVFDGY)
-  - [Tinder System Design](https://www.youtube.com/watch?v=tndzLznxq40)
-  - [System Design of Amazon, Flipkart like E-commerce](https://www.youtube.com/watch?v=2BWr0fsDSs0)
-  - [Mock Low Level Design Interview](https://www.youtube.com/watch?v=J-4UQ_WpMtc)
-  - [High Level Design vs Low Level Design](https://www.youtube.com/watch?v=H703ErIrby8)
-  - [low Level Design of a Fitness App](https://www.youtube.com/watch?v=7-A5NgGrJqY)
-  - [Mock Low Level Design Interview](https://www.youtube.com/watch?v=cqxowa0JbpI)
 
-
-- LOW LEVEL DESIGN
-  - [Soumyajit bhattacharya](https://www.youtube.com/playlist?list=PL12BCqE-Lp650Cg6FZW7SoZwN8Rw1WJI7)
-  - [Sandeep Kaul](https://www.codekarle.com/)
-  - [Crack the System DesigN Interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
-  - [System Design Interview — Alex Xu](https://www.amazon.com/System-Design-Interview-Insiders-Guide-ebook/dp/B08B3FWYBX/)
-  - [Designing Data Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/)
-  - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
-  - [System Design](https://github.com/shashank88/system_design)
-  - [Services Engineering](https://github.com/mmcgrana/services-engineering)
-  - [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
-
-<hr>
 
 **Git and Github**
 
